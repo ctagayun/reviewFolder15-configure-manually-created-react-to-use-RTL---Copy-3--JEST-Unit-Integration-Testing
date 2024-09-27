@@ -1,0 +1,9 @@
+{
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  }
+
+  //In your .babelrc (or package.json) file -- depending on where you have your Babel configuration for presets and plugins -- add the new preset. 
+  //In this tutorial, we will add it in our .babelrc file:
